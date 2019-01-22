@@ -1,7 +1,4 @@
-import addToDo from './addToDo'
-import removeToDo from './removeToDo'
+import addToDoAction from './addToDo';
+import removeToDoAction from './removeToDo';
 
-export {
-  addToDo,
-  removeToDo,
-}
+export { addToDoAction, removeToDoAction };
